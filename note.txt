@@ -1,0 +1,31 @@
+
+
+
+
+cross browser support
+cross platfrom
+
+css meaning
+
+
+css types
+    inline
+    internal
+    external
+
+css power - types
+    
+css syntax
+    selector{
+         properties:values;
+    }
+
+selector
+    tag/element
+    class
+    id
+
+css power - selector
+    
+
+    EBF9F4
